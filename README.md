@@ -59,8 +59,18 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/xd/xd-original.svg" alt="xd" width="40" height="40"/></a>
 </p>
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/stats.svg" />
+  <img alt="GitHub Stats" src="./profile/stats.svg" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs.svg" />
+  <img alt="Top Languages" src="./profile/top-langs.svg" />
+</picture>
+
 
 <picture>
   <source
