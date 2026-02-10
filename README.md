@@ -59,11 +59,7 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/xd/xd-original.svg" alt="xd" width="40" height="40"/></a>
 </p>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=fl0r1an84&show_icons=true&hide=contribs&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=fl0r1an84&show_icons=true&hide=contribs&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-[![Top Langs dark](https://github-readme-stats.vercel.app/api/top-langs/?username=fl0r1an84&layout=compact&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs light](https://github-readme-stats.vercel.app/api/top-langs/?username=fl0r1an84&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+![Stats](./profile/stats.svg)
 
 <picture>
   <source
