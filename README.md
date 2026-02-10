@@ -60,15 +60,15 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FL0R1AN84/FL0R1AN84/output/stats-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FL0R1AN84/FL0R1AN84/output/stats.svg" />
-  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/FL0R1AN84/FL0R1AN84/output/stats.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/stats.svg" />
+  <img alt="GitHub Stats" src="./profile/stats.svg" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FL0R1AN84/FL0R1AN84/output/top-langs-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FL0R1AN84/FL0R1AN84/output/top-langs.svg" />
-  <img alt="Top Languages" src="https://raw.githubusercontent.com/FL0R1AN84/FL0R1AN84/output/top-langs.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs.svg" />
+  <img alt="Top Languages" src="./profile/top-langs.svg" />
 </picture>
 
 
