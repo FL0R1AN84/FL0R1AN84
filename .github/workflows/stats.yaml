@@ -21,7 +21,7 @@ jobs:
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=default&hide=contribs
-          path: profile/stats.svg
+          path: dist/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate stats card (dark)
@@ -29,7 +29,7 @@ jobs:
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&hide=contribs&theme=github_dark
-          path: profile/stats-dark.svg
+          path: dist/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card (light)
@@ -37,7 +37,7 @@ jobs:
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=default
-          path: profile/top-langs.svg
+          path: dist/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card (dark)
@@ -45,7 +45,7 @@ jobs:
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=github_dark
-          path: profile/top-langs-dark.svg
+          path: dist/top-langs-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
