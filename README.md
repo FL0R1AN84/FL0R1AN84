@@ -15,7 +15,8 @@
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/></a> 
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet" width="40" height="40"/></a> 
 <a href="https://www.w3.org/html" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"></a> 
-<a href="https://laravel.com/"target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/raw/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/></a> 
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://github.
+com/devicons/devicon/raw/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/></a> 
 <a href="https://nuxt.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/></a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a> 
