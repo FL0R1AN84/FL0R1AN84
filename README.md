@@ -19,16 +19,17 @@
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/raw/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/></a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a> 
-<a href="https://symfony.com" target="_blank" rel="noreferrer"><picture style="display:inline-block;vertical-align:middle"><source media="(prefers-color-scheme: dark)" alt="symfony" srcset="./icons/symfony_black.svg" width="40" height="40"><img alt="symfony" src="./icons/symfony_white.svg" width="40" height="40"></picture></a> 
+<a href="https://symfony.com" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" alt="symfony" srcset="./icons/symfony_black.svg" width="40" height="40"><img alt="symfony" src="./icons/symfony_white.svg" width="40" height="40"></picture></a> 
 <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/vuetify/vuetify-original.svg" alt="vuetify" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">That's what I like to work with:</h3>
 <p> 
-<a href="https://developer.apple.com/" target="_blank" rel="noreferrer"><picture style="display:inline-block;vertical-align:middle"><source media="(prefers-color-scheme: dark)" alt="apple" srcset="./icons/apple_logo_white.svg" width="40" height="40"><img alt="apple" src="./icons/apple_logo_black.svg" width="40" height="40"></picture></a> 
+<a href="https://developer.apple.com/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" alt="apple" srcset="./icons/apple_logo_white.svg" width="40" height="40"><img alt="apple" src="./icons/apple_logo_black.svg" width="40" height="40"></picture></a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a> 
-<a href="https://directus.io/" target="_blank" rel="noreferrer"><picture style="display:inline-block;vertical-align:middle"><source media="(prefers-color-scheme: dark)" alt="directus" srcset="./icons/directus_white.svg" width="40" height="40"><img src="./icons/directus_black.svg" alt="directus" width="40" height="40"></picture></a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"><picture style="display:inline-block;vertical-align:middle"><source media="(prefers-color-scheme: dark)" alt="github" srcset="./icons/github-white.svg" width="40" height="40"><img src="./icons/github-black.svg" alt="github" width="40" height="40"></picture></a>
+<a href="https://directus.io/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" alt="directus" srcset="./icons/directus_white.svg" width="40" height="40"><img src="./icons/directus_black.svg" alt="directus" width="40" height="40"></picture></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" 
+alt="github" srcset="./icons/github-white.svg" width="40" height="40"><img src="./icons/github-black.svg" alt="github" width="40" height="40"></picture></a>
 <a href="https://nuxt.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/></a> 
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"></a> 
 <a href="https://ionicframework.com/" target="_blank" rel="noreferrer"> <img src="./icons/ionic.svg" alt="ionic" width="40" height="40"/></a> 
@@ -42,7 +43,7 @@
 <h3 align="left">More languages and tools I use:</h3>
 <p> <a href="https://developers.google.com" target="_blank" rel="noreferrer"> <img src="./icons/android.svg" alt="android" width="40" height="40"/></a> 
 <a href="https://httpd.apache.org" target="_blank" rel="noreferrer"> <img src="./icons/apache.svg" alt="apache" width="40" height="40"/></a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><picture style="display:inline-block;vertical-align:middle"><source media="(prefers-color-scheme: dark)" alt="bash" srcset="./icons/gnu_bash-icon_dark.svg" width="40" height="40"><img alt="bash" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"></picture></a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" alt="bash" srcset="./icons/gnu_bash-icon_dark.svg" width="40" height="40"><img alt="bash" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"></picture></a> 
 <a href="https://capacitorjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/capacitor/capacitor-original.svg" alt="capacitor" width="40" height="40"/></a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/></a>  
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a> 
@@ -50,7 +51,7 @@
 <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/></a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="./icons/illustrator.svg" alt="illustrator" width="40" height="40"/></a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer"><picture style="display:inline-block;vertical-align:middle"><source media="(prefers-color-scheme: dark)" alt="mariadb" srcset="./icons/mariadb_white.svg" width="40" height="40"><img alt="mariadb" src="./icons/mariadb.svg" width="40" height="40"></picture></a> 
+<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <picture><source media="(prefers-color-scheme: dark)" alt="mariadb" srcset="./icons/mariadb_white.svg" width="40" height="40"><img alt="mariadb" src="./icons/mariadb.svg" width="40" height="40"></picture></a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a> 
