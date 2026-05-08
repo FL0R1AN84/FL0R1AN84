@@ -24,7 +24,7 @@ $ whoami
 ---
 
 <details open>
-<summary><samp>📦 experience --list</samp></summary>
+<summary><samp>📦 experience</samp></summary>
 <br/>
 <a href="https://angular.io" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular"/></picture></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap"/></picture></a>
@@ -43,7 +43,7 @@ $ whoami
 
 
 <details open>
-<summary><samp>❤️ preferences --list</samp></summary>
+<summary><samp>❤️ preferences</samp></summary>
 <br/>
 <a href="https://developer.apple.com/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./icons/apple_logo_white.svg"/><img align="left"  width="40" height="40" alt="apple" src="./icons/apple_logo_black.svg"/></picture></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" alt="css3"/></picture></a>
@@ -63,7 +63,7 @@ $ whoami
 
 
 <details open>
-<summary><samp>🔧 tools --list</samp></summary>
+<summary><samp>🔧 tools</samp></summary>
 <br/>
 <a href="https://developers.google.com" target="_blank" rel="noreferrer"><picture><img align="left" hspace="4" width="40" height="40" src="./icons/android.svg" alt="android"/></picture></a>
 <a href="https://httpd.apache.org" target="_blank" rel="noreferrer"><picture><img align="left" hspace="4" width="40" height="40" src="./icons/apache.svg" alt="apache"/></picture></a>
@@ -83,7 +83,7 @@ $ whoami
 </details>
 
 <details>
-<summary><samp>🐍 snake --list</samp></summary>
+<summary><samp>🐍 snake</samp></summary>
   <img
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/FL0R1AN84/FL0R1AN84/output/github-contribution-grid-snake.svg"
