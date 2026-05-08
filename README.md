@@ -62,25 +62,32 @@ $ whoami
 </details>
 
 
-<details>
+<details open>
 <summary><samp>🔧 tools --list</samp></summary>
 <br/>
-<a href="https://developers.google.com" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="./icons/android.svg" alt="android"/></picture></a>
-<a href="https://httpd.apache.org" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="./icons/apache.svg" alt="apache"/></picture></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./icons/gnu_bash-icon_dark.svg"/><img align="left"  width="40" height="40" alt="bash" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"/></picture></a>
-<a href="https://capacitorjs.com/" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/capacitor/capacitor-original.svg" alt="capacitor"/></picture></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-plain.svg" alt="docker"/></picture></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" alt="figma"/></picture></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git"/></picture></a>
-<a href="https://graphql.org" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/graphql/graphql-plain.svg" alt="graphql"/></picture></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"/></picture></a>
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./icons/mariadb_white.svg"/><img align="left"  width="40" height="40" alt="mariadb" src="./icons/mariadb.svg"/></picture></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"/></picture></a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"/></picture></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" alt="nodejs"/></picture></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="postgresql"/></picture></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/postman/postman-original.svg" alt="postman"/></picture></a>
+<a href="https://developers.google.com" target="_blank" rel="noreferrer"><picture><img align="left" hspace="4" width="40" height="40" src="./icons/android.svg" alt="android"/></picture></a>
+<a href="https://httpd.apache.org" target="_blank" rel="noreferrer"><picture><img align="left" hspace="4" width="40" height="40" src="./icons/apache.svg" alt="apache"/></picture></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./icons/gnu_bash-icon_dark.svg"/><img align="left" hspace="4" width="40" height="40" alt="bash" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"/></picture></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><picture><img align="left" hspace="4" width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-plain.svg" alt="docker"/></picture></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><picture><img align="left" hspace="4" width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" alt="figma"/></picture></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><picture><img align="left" hspace="4" width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git"/></picture></a>
+<a href="https://graphql.org" target="_blank" rel="noreferrer"><picture><img align="left" hspace="4" width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/graphql/graphql-plain.svg" alt="graphql"/></picture></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><picture><img align="left" hspace="4" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"/></picture></a>
+<a href="https://mariadb.org/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./icons/mariadb_white.svg"/><img align="left" hspace="4" width="40" height="40" alt="mariadb" src="./icons/mariadb.svg"/></picture></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><picture><img align="left" hspace="4" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"/></picture></a>
+<a href="https://www.nginx.com" target="_blank" rel="noreferrer"><picture><img align="left" hspace="4" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"/></picture></a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><picture><img align="left" hspace="4" width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" alt="nodejs"/></picture></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><picture><img align="left" hspace="4" width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="postgresql"/></picture></a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"><picture><img align="left" hspace="4" width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/postman/postman-original.svg" alt="postman"/></picture></a>
 <br clear="left"/><br/>
+</details>
+
+<details>
+<summary><samp>🐍 snake --list</samp></summary>
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/FL0R1AN84/FL0R1AN84/output/github-contribution-grid-snake.svg"
+  />
 </details>
 
 ---
@@ -98,18 +105,3 @@ $ whoami
 </picture>
 
 <br/>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/FL0R1AN84/FL0R1AN84/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/FL0R1AN84/FL0R1AN84/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/FL0R1AN84/FL0R1AN84/output/github-contribution-grid-snake.svg"
-  />
-</picture>
