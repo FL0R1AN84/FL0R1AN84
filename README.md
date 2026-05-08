@@ -23,7 +23,7 @@ $ whoami
 
 ---
 
-<details>
+<details open>
 <summary><samp>📦 experience --list</samp></summary>
 <br/>
 <a href="https://angular.io" target="_blank" rel="noreferrer"><picture><img align="left" hspace="4" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular"/></picture></a>
@@ -42,7 +42,7 @@ $ whoami
 </details>
 
 
-<details>
+<details open>
 <summary><samp>❤️ preferences --list</samp></summary>
 <br/>
 <a href="https://developer.apple.com/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./icons/apple_logo_white.svg"/><img align="left" hspace="4" width="40" height="40" alt="apple" src="./icons/apple_logo_black.svg"/></picture></a>
@@ -73,17 +73,14 @@ $ whoami
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><picture><img align="left" hspace="4" width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" alt="figma"/></picture></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><picture><img align="left" hspace="4" width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git"/></picture></a>
 <a href="https://graphql.org" target="_blank" rel="noreferrer"><picture><img align="left" hspace="4" width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/graphql/graphql-plain.svg" alt="graphql"/></picture></a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><picture><img align="left" hspace="4" width="40" height="40" src="./icons/illustrator.svg" alt="illustrator"/></picture></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><picture><img align="left" hspace="4" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"/></picture></a>
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./icons/mariadb_white.svg"/><img align="left" hspace="4" width="40" height="40" alt="mariadb" src="./icons/mariadb.svg"/></picture></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><picture><img align="left" hspace="4" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"/></picture></a>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><picture><img align="left" hspace="4" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"/></picture></a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><picture><img align="left" hspace="4" width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" alt="nodejs"/></picture></a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><picture><img align="left" hspace="4" width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/photoshop/photoshop-original.svg" alt="photoshop"/></picture></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><picture><img align="left" hspace="4" width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="postgresql"/></picture></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"><picture><img align="left" hspace="4" width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/postman/postman-original.svg" alt="postman"/></picture></a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><picture><img align="left" hspace="4" width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/sqlite/sqlite-original.svg" alt="sqlite"/></picture></a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><picture><img align="left" hspace="4" width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/xd/xd-original.svg" alt="xd"/></picture></a>
 <br clear="left"/><br/>
 </details>
 
