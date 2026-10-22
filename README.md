@@ -31,16 +31,15 @@ $ whoami
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-original.svg" alt="csharp"/></picture></a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dart/dart-original.svg" alt="dart"/></picture></a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet"/></picture></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flutter/flutter-original.svg" alt="flutter"/></picture></a>
 <a href="https://www.w3.org/html" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" alt="html5"/></picture></a>
 <a href="https://gitlab.com/" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/gitlab/gitlab-original.svg" alt="gitlab"/></picture></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/laravel/laravel-original.svg" alt="laravel"/></picture></a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" alt="php"/></picture></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" alt="react"/></picture></a>
 <a href="https://symfony.com" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./icons/symfony_black.svg"/><img align="left"  width="40" height="40" alt="symfony" src="./icons/symfony_white.svg"/></picture></a>
 <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/vuetify/vuetify-original.svg" alt="vuetify"/></picture></a>
 <br clear="left"/><br/>
 </details>
-
 
 <details open>
 <summary><samp>❤️ preferences</samp></summary>
@@ -50,9 +49,9 @@ $ whoami
 <a href="https://directus.io/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./icons/directus_white.svg"/><img align="left"  width="40" height="40" src="./icons/directus_black.svg" alt="directus"/></picture></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./icons/github-white.svg"/><img align="left"  width="40" height="40" src="./icons/github-black.svg" alt="github"/></picture></a>
 <a href="https://nuxt.com" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs"/></picture></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flutter/flutter-original.svg" alt="flutter"/></picture></a>
 <a href="https://ionicframework.com/" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="./icons/ionic.svg" alt="ionic"/></picture></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript"/></picture></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" alt="react"/></picture></a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"/></picture></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind"/></picture></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><picture><img align="left"  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"/></picture></a>
@@ -60,7 +59,6 @@ $ whoami
 <br clear="left"/><br/>
 
 </details>
-
 
 <details open>
 <summary><samp>🔧 tools</samp></summary>
